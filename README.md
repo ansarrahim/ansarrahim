@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/Salman7292/Salman7292/main/Screenshot%202024-07-19%20001510.png)](https://your-link-here)
+[![MasterHead](https://github.com/ansarrahim/ansarrahim/blob/1e5d9dbb99730c74cbe5b5c839532a6a27f2667d/cover.png)
 
 <h1 align="center">
   <a href="#">
