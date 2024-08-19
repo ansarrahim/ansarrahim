@@ -2,7 +2,8 @@
 
 <h1 align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+Myself+SalmanMalik!;Great+to+Have+You+Here!&center=true&size=25">
+<!--     https://github.com/ansarrahim/ansarrahim/blob/1e5d9dbb99730c74cbe5b5c839532a6a27f2667d/cover.png -->
+    <img "https://github.com/ansarrahim/ansarrahim/blob/1e5d9dbb99730c74cbe5b5c839532a6a27f2667d/cover.png">
   </a>
 </h1>
 
