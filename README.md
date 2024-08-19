@@ -1,9 +1,8 @@
-[![MasterHead](https://github.com/ansarrahim/ansarrahim/blob/1e5d9dbb99730c74cbe5b5c839532a6a27f2667d/cover.png)
+![MasterHead](https://github.com/ansarrahim/ansarrahim/blob/1e5d9dbb99730c74cbe5b5c839532a6a27f2667d/cover.png)
 
 <h1 align="center">
   <a href="#">
-<!--     https://github.com/ansarrahim/ansarrahim/blob/1e5d9dbb99730c74cbe5b5c839532a6a27f2667d/cover.png -->
-    <img "https://github.com/ansarrahim/ansarrahim/blob/1e5d9dbb99730c74cbe5b5c839532a6a27f2667d/cover.png">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+Myself+MuhammadAnsar!;Great+to+Have+You+Here!&center=true&size=25">
   </a>
 </h1>
 
@@ -19,14 +18,14 @@
 
 <H1>About Me:</H1>  
 <img align="right" alt="Coding" width="200" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" />
-<P>I'm a dedicated Python programmer with expertise in developing applications using Streamlit. My passion lies in the fields of Machine Learning and Deep Learning, where I constantly explore and implement cutting-edge techniques. I specialize in predictive analytics and enjoy creating robust models to solve real-world problems. With a strong foundation in AI, I am committed to advancing my knowledge and contributing to the open-source community.</P>
+<P>I'm a dedicated Python programmer. My passion lies in the fields of Machine Learning and Deep Learning, where I constantly explore and implement cutting-edge techniques. I specialize in predictive analytics and enjoy creating robust models to solve real-world problems. With a strong foundation in AI, I am committed to advancing my knowledge and contributing to the open-source community.</P>
 
 
 - 🔭 I’m currently working on **To implementing AI into webapp**
 
 - 💬 Ask me about **Python Programming ,Api Integration,ML Models**
 
-- 📫 How to reach me **Salmanuom04@gmail.com**
+- 📫 How to reach me **ansarrahim789@gmail.com**
 
    
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, rgba(216,82,82,1) 13%, rgba(237,242,6,1) 57%);" />
@@ -36,10 +35,8 @@ Join me on The following Platforms, where I share insights, victories, and even 
 <br>
 <br>
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-salman-036b27284/)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100014422202716)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/salmanbunery230/)
-[![YouTube Badge](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@learnwithsalaman)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ansar-402641178/)
+
 
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, rgba(216,82,82,1) 13%, rgba(237,242,6,1) 57%);" />
 
