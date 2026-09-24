@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://crewlogic-labs.vercel.app"><img src="https://img.shields.io/badge/CrewLogic_Labs-live_site-34d399?style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/muhammad-ansar-402641178"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ansarrahim789@gmail.com"><img src="https://img.shields.io/badge/Email-contact-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:crewlogiclabs@gmail.com"><img src="https://img.shields.io/badge/Email-contact-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 I design and direct every project end to end — architecture, code review, and
@@ -36,6 +36,6 @@ See [crewlogic-labs.vercel.app/case-studies](https://crewlogic-labs.vercel.app/c
 
 ## Reach me
 
-- 📫 **ansarrahim789@gmail.com**
+- 📫 **crewlogiclabs@gmail.com**
 - 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-ansar-402641178)
 - 🌐 [crewlogic-labs.vercel.app](https://crewlogic-labs.vercel.app)
